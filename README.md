@@ -1,4 +1,4 @@
-# 南京理工大学计算机学院(江阴校区)2023年春季课程-计算机视觉与应用
+# 南京理工大学计算机科学与工程学院(江阴校区)2023年春季课程-计算机视觉与应用
 
 ## 练习一:图像拼接
 
@@ -16,5 +16,5 @@
 ## 练习二:LeNet-5
 
 ### 实验目标:
-    1. 试用 Tensorflow Playground，乔写一篇试用报告。(网: http://playground.tensorflow.org/)
+    1. 试用 Tensorflow Playground，乔写一篇试用报告。(网址: http://playground.tensorflow.org/)
     2. 实现 LeNet-5 在 MNIST 数据集上的训练和测试，并进行分析，完成实验报告，提交代码。
