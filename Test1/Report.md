@@ -42,7 +42,7 @@
 >   + 拼接的两张图片尺寸需一致,不然在拼接时会报错
 >   + 拼接的两张图片合适的匹配点需大于4(即存在重复区域)
 ### 2.2 结果展示
-[输入图片左](Test1\images\1.jpg)  
-[输入图片右](Test1\images\2.jpg)  
-[拼接结果图片](Test1\images\result.png)
+[输入图片左](images/1.jpg)  
+[输入图片右](images/2.jpg)  
+[拼接结果图片](images/result.png)
  
