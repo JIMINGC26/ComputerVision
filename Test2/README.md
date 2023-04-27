@@ -1,5 +1,14 @@
 # *练习二: Tensorflow Playground & LeNet-5*
 
+## 目录
+> 一 使用Tensorflow Playground  
+> 二 LeNet-5  
+>   1. 网络结构  
+>   2. MNIST数据集  
+>   3. 训练  
+>   4. 代码  
+>   5. 实验结果及其分析
+
 ## **一 试用Tensorflow Playground**
 
 **Tensorflow Playground**又名TensorFlow游乐场，是一个用来图形化教学的简单神经网络在线演示和实验的平台，非常强大且极其易用，在这个超级易懂的 demo 里，我们可以快速体验一个算法工程师的调参工作。
